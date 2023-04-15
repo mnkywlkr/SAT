@@ -1,0 +1,5 @@
+**/*.o
+**/*.gch
+**/bin
+.vscode
+**/.DS_Store
